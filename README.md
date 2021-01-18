@@ -7,6 +7,6 @@ Konter Pulsa Bintang adalah aplikasi Java berbasis GUI (Swing) yang dibuat denga
 - CRUD data pembelian dengan validasi untuk setiap inputan
 
 ## Cara penggunaan Aplikasi ini
-- Pastikan versi Java dan Netbeans yang terinstall adalah versi 8.
-- Buatlah database dengan nama konterpulsabintang, lalu import file sql yang telah disertakan.
+- Pastikan versi Java dan Netbeans yang terinstall adalah versi `8`.
+- Buatlah database dengan nama `konterpulsabintang`, lalu import file sql yang telah disertakan.
 - Silahkan Run.
